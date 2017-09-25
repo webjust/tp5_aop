@@ -1,6 +1,11 @@
 # THINKPHP 5 API
 
 ## 需求分析
+- 创建api模块、控制器、模型
+- 定义路由
+- 获取请求的参数Request,自动验证
+- 验证层的使用、规则、自定义规则，封装验证层（验证不通过抛出异常）
+- 全局异常处理
 
 ## 封装校验层
 *D:\wamp\www\aop_api.dev\application\api\validate\BaseValidate.php*
